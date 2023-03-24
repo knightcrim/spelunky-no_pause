@@ -1,5 +1,5 @@
 # No Pause
-Basic mod that lets the game run while paused, disables pausing when out of focus, and automatically transitions levels.
+Basic mod that lets the game run while paused, disables pausing when out of focus, ~~and automatically transitions levels~~.
 Optional reference included.
 
 # Disclaimer
