@@ -17,6 +17,6 @@ set_callback(function(ctx)
 	state.pause = 0
 end, ON.RENDER_PRE_PAUSE_MENU)
 
-set_callback(function()
-    warp(state.world_next, state.level_next, state.theme_next)
-end, ON.TRANSITION)
+--set_callback(function()
+--    warp(state.world_next, state.level_next, state.theme_next)
+--end, ON.TRANSITION)
